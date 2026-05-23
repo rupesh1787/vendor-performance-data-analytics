@@ -140,6 +140,3 @@ python scripts/get_vendor_summary.py
 - Create a lightweight Streamlit app for sharing the dashboard online.
 - Add a data dictionary for the source tables and KPI definitions.
 
-## Author
-
-This repo is ready to use as a beginner-friendly portfolio project for campus placements and recruiter reviews.
